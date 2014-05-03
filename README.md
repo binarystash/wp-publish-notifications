@@ -1,6 +1,6 @@
-#WP Publish Notifications
-
 [![Build Status](https://travis-ci.org/binarystash/wp-publish-notifications.svg?branch=master)](https://travis-ci.org/binarystash/wp-publish-notifications)
+
+#WP Publish Notifications
 
 This is a simple Wordpress plugin that emails registered users when a post or page is published. The email contains the post's title and its content. 
 
